@@ -38,9 +38,3 @@ The project involves computing key structural metrics, community detection, and 
 ## 📄 Report
 
 The final report (`Complex_Networks_Final_Report.pdf`) includes a comprehensive analysis, detailed explanations of methods, and visualizations for all networks.
-
----
-
-**Let me know if you want to add more details or tweak this README!** Once you finalize it, I can also suggest **folder structures** (like `/notebooks`, `/figures`, etc.) for a professional layout.
-
-🚀 Let me know how you’d like to proceed!
